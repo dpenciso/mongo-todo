@@ -1,10 +1,10 @@
-## Back End ToDo App
+# Back End ToDo App
 
-# Overview
+## Overview
 
 This ToDo app is connected to a database using MongoDB and allows you to get, delete, and edit todos from that database. This app is rendered using the templating engine EJS (Embedded JavaScript) to render the front end and the javascript in the same file. It uses Node.js on the backend for the endpoints. This app uses mongoose, ejs, dotenv, and express as dependencies.
 
-# To Run Locally
+## To Run Locally
 
 Install the following dependencies:
 
@@ -17,7 +17,7 @@ Use a MongoDB cluster and whitelist your IP addresss.
 
     npm start
 
-# Methods/Endpoints
+## Methods/Endpoints
 
     GET '/'
 
